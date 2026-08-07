@@ -2,8 +2,12 @@
 datafactory : #bicep #azure-data-factory #copy #blob
 
 ## Objective
-Perform demo of using Bicep to create an Azure data factory. 
+Perform demo of using Bicep to create an Azure Data Factory (ADF). 
 The pipeline perform copies data from one folder to another folder in an Azure blob storage.
+
+## Similar Skills Set
+- GCP : Cloud Data Fusion
+- AWS : Glue
 
 ## Data Factory : Copy blob using Bicep
 
